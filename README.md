@@ -1,5 +1,7 @@
 # My To-Do App
 
+안냥하세요
+
 HTML, CSS, JavaScript만으로 만든 할 일 관리 웹 앱입니다. 별도의 빌드나 서버 없이
 브라우저에서 바로 실행되며, 모든 데이터는 브라우저의 `localStorage`에 저장됩니다.
 
